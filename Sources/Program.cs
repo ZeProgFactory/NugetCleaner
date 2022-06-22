@@ -4,7 +4,7 @@
 string _path = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
 _path += @"\.nuget\packages\";
 
-Console.WriteLine("NugetsCleaner");
+Console.WriteLine("NugetCleaner");
 Console.WriteLine("");
 Console.WriteLine(_path);
 
